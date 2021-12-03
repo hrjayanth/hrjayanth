@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @hrjayanth
-- 👀 I’m interested in Algorithms and Designs, Datastructures
-- 🌱 I’m currently learning Python and GO Lang
-- 📫 To get in touch with me, you can drop me a mail at hrjayanth@gmail.com
+# Hey There 👋
 
-<!---
-hrjayanth/hrjayanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hrjayanth)
+[![Linkedin Badge](https://img.shields.io/badge/-JayantaRamanatha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JayantaRamanatha/)](https://www.linkedin.com/in/jayanta-ramanatha-a6245846/)
+
+I'm Jayanta. Nice to meet you! I'm currently working at Philips as a Dev Lead on a health care application. I've previously worked on automotive Projects at Robert Bosch as a full stack developer using Java and Angular, and financial projects at Goldman Sachs and Citi Private Bank. 
+
+I'm interested in Software Architecture, Algorithms and Data structures
